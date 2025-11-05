@@ -40,11 +40,6 @@
 ### 💼 Work Experience
 
 🟢 *Full Stack Trainer* @ Dr. Reddy’s Foundation  
-🔵 *Technical Trainer* @ MGI  
-🔵 *Member Technical* @ ADP Pvt. Ltd.  
-🔴 *Project Engineer Intern* @ Wipro Pvt. Ltd.  
-🔴 *Graduate Engineer Trainee* @ HCL Pvt. Ltd.
-
 ---
 
 ## 🧰 Tech Toolbox
@@ -58,7 +53,6 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
@@ -161,11 +155,11 @@ A *Job Platform* designed to help job seekers find and apply to opportunities ea
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagmohan123&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabhpatel9399&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagmohan123&theme=tokyonight" height="160" alt="streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagmohan123&layout=compact&theme=tokyonight" height="150" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhpatel9399&layout=compact&theme=tokyonight" height="150" alt="top languages"/>
 </p>
 
 ---
