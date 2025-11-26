@@ -36,7 +36,7 @@
 
 ### 💼 Work Experience
 
-🟢 *Full Stack Trainer* @ Dr. Reddy’s Foundation  
+🟢 *Full Stack Trainee* @ Dr. Reddy’s Foundation  
 ---
 
 ## 🧰 Tech Toolbox
